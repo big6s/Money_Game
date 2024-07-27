@@ -1,0 +1,9 @@
+{
+	"files.associations": {
+		"ostream": "cpp",
+		"typeinfo": "cpp",
+		"cstdio": "cpp",
+		"*.txt": "plaintext",
+		"vector": "cpp"
+	}
+}

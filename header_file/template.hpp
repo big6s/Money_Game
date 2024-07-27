@@ -1,0 +1,8 @@
+#include "vector"
+#include "input.hpp"
+#include "output.hpp"
+#include "player.hpp"
+#include "account.hpp"
+#include "type.hpp"
+#include "bank.hpp"
+#include "game.hpp"
